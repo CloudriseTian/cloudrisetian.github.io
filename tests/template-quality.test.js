@@ -49,14 +49,14 @@ assert.match(scripts, /typesetPromise/, 'MathJax should be invoked with typesetP
 assert.equal(/MathJax\.typeset\(\)/.test(scripts), false, 'MathJax.typeset() should not be called repeatedly per section');
 assert.equal(/const\s+section_names\s*=/.test(scripts), false, 'section list should come from configuration instead of a JS constant');
 assert.equal(/^nav:\s*$/m.test(config), false, 'navigation should be derived from sections instead of a separate nav list');
-assert.match(config, /sections:\n\s+-\s+id:\s+home/, 'sections should use object entries with ids');
-assert.equal(/sections:\n(?:\s+-\s+\w+\n?)+$/m.test(config), false, 'sections should not be a plain string list');
+assert.match(config, /sections:\r?\n\s+-\s+id:\s+home/, 'sections should use object entries with ids');
+assert.equal(/sections:\r?\n(?:\s+-\s+\w+\r?\n?)+$/m.test(config), false, 'sections should not be a plain string list');
 assert.equal(/<ul class="navbar-nav ms-auto me-4 my-3 my-lg-0">\s*<li/s.test(index), false, 'navigation items should be rendered from configuration');
 assert.match(index, /<main id="sections"><\/main>/, 'content sections should be rendered into a single sections container');
 assert.equal(/<section[^>]+id="home"/.test(index), false, 'home section should not be hard-coded in index.html');
 assert.equal(/<section[^>]+id="publications"/.test(index), false, 'publications section should not be hard-coded in index.html');
 assert.equal(/<section[^>]+id="awards"/.test(index), false, 'awards section should not be hard-coded in index.html');
-assert.match(config, /sections:\n\s+-\s+id:\s+home[\s\S]*title:/, 'section entries should define display titles');
+assert.match(config, /sections:\r?\n\s+-\s+id:\s+home[\s\S]*title:/, 'section entries should define display titles');
 assert.match(config, /id:\s+publications[\s\S]*icon:\s+bi-file-text-fill/, 'section icon should be configured as a Bootstrap Icons class');
 assert.match(config, /id:\s+awards[\s\S]*icon:\s+bi-award-fill/, 'award icon should be configured as a Bootstrap Icons class');
 assert.match(scripts, /function\s+renderSections/, 'sections should be generated from configuration');

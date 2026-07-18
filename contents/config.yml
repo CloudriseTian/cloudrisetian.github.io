@@ -1,22 +1,24 @@
-title: User Name's Homepage
-page-top-title: User Name
-top-section-bg-text: Computer Science
+title: Yuzhuo Tian's Homepage
+page-top-title: Yuzhuo Tian
+top-section-bg-text: Bioinformatics
+top-section-subtitle: Machine Learning for Biomedical Sciences &middot; Molecule Interaction
 backgrounds:
+
   - static/assets/background/background_0.jpeg
   - static/assets/background/background_1.jpeg
 background-interval-ms: 7000
 background-overlay: 0.52
-copyright-text: '&copy; Sen Li 2023-2026. All Rights Reserved.'
+copyright-text: '&copy; Yuzhuo Tian 2026&ndash;Present. All Rights Reserved.'
 github-link:
-  text: Github
-  href: https://github.com/senli1073
+    text: Github
+    href: https://github.com/CloudriseTian
 license-link:
-  text: License
-  href: https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE
+    text: License
+    href: https://github.com/CloudriseTian/cloudrisetian.github.io/blob/main/LICENSE
 sections:
   - id: home
     nav: HOME
-    title: User Name&ensp;|&ensp;姓名
+    title: Yuzhuo Tian&ensp;|&ensp;田玉卓
     href: '#page-top' # Default to '#<id>' if not specified
   - id: publications
     nav: PUBLICATIONS

@@ -1,12 +1,7 @@
+- National First Prize, National College Life Science Competition, 2026.
 
-- Outstanding Graduate Award (CUMT), 2025.
+- Second Prize, National English Competition for College Students, 2025.
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- Soochow University Academic Excellence Special Scholarship, 2025.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
-
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- Soochow University Comprehensive Scholarship, 2025.

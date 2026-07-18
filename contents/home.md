@@ -1,16 +1,19 @@
 
+[![CloudriseTian](https://img.shields.io/badge/CloudriseTian-github-blue?logo=github)](https://github.com/CloudriseTian)
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+Undergraduate student at the School of Life Sciences, Soochow University.
 
 #### Contact
 
-Email: user[at]fas.harvard.edu
+Email: yztiancloud[at]stu.suda.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+
+**Soochow University**, 2024–2028
+
+- B.S., Bioinformatics, Primary Major, 2024–2028
+- B.E., Computer Science and Technology, Dual Bachelor Degree, 2026–2028
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+
+Machine Learning for Biomedical Sciences; Molecule Interaction.

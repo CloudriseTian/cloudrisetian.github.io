@@ -1,21 +1,10 @@
 
 
-![Github Forks](https://img.shields.io/github/forks/senli1073/academic-homepage-template?style=flat)
-![Github Stars](https://img.shields.io/github/stars/senli1073/academic-homepage-template?style=flat)
-![License](https://img.shields.io/github/license/senli1073/academic-homepage-template)
-![Last Commit](https://img.shields.io/github/last-commit/senli1073/academic-homepage-template)
+# Yuzhuo Tian's Academic Homepage
 
-# A simple Github Pages template for personal academic websites.
+This is the source code for my personal academic website, hosted via GitHub Pages at [cloudrisetian.github.io](https://cloudrisetian.github.io).
 
-> ⚠️ SECURITY NOTICE (2026-06)
-> 
-> Older versions of this template include a polyfill.io dependency
-> which may cause malicious popups.
->
-> Please update to the latest version immediately.
-
-## Preview
-[![Screenshot of the Website](https://raw.githubusercontent.com/senli1073/academic-homepage-template/main/screenshot_full.png)](https://senli1073.github.io/)
+Built from [academic-homepage-template](https://github.com/senli1073/academic-homepage-template) by Sen Li.
 
 
 ## Introduction
@@ -115,4 +104,4 @@ Fire up a browser and go to `https://<username>.github.io`
 
 ## License
 
-Copyright Sen Li, 2023-2025. Licensed under an MIT license. You can copy and mess with this template.
+Copyright Sen Li, 2023-2025. Licensed under MIT. This site is a fork of the original template.
