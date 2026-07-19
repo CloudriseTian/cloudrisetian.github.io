@@ -28,4 +28,4 @@ Selected coursework:
 
 #### Research Interests
 
-Machine Learning for Biomedical Sciences; Molecule Interaction.
+Machine Learning for Biomedical Sciences; AI-aided drug discovery (AIDD); Molecule Interaction；

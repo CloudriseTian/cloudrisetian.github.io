@@ -1,7 +1,7 @@
 title: Yuzhuo Tian's Homepage
 page-top-title: Yuzhuo Tian
 top-section-bg-text: Bioinformatics
-top-section-subtitle: Machine Learning for Biomedical Sciences &middot; Molecule Interaction
+top-section-subtitle: Machine Learning for Biomedical Sciences &middot; AIDD &middot; Molecule Interaction
 backgrounds:
 
   - static/assets/background/background_0.jpeg
@@ -28,3 +28,7 @@ sections:
     nav: AWARDS
     title: AWARDS
     icon: bi-award-fill
+  - id: experience
+    nav: EXPERIENCE
+    title: EXPERIENCE
+    icon: bi-briefcase-fill
