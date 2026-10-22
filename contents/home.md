@@ -26,6 +26,10 @@ Selected coursework:
 - Cell Biology &ensp;95
 - Modern Statistics and Bioinformatics &ensp;99
 
+#### English Proficiency
+
+- **IELTS:** 7.5 overall (Speaking: 7.0)
+
 #### Research Interests
 
 Machine Learning for Biomedical Sciences; AI-aided drug discovery (AIDD); Molecule Interaction；
