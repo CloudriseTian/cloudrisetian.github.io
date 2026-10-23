@@ -1,4 +1,4 @@
-- National Scholarship, 2026.
+- **National Scholarship, 2026.**
 
 - First Prize, National Undergraduate Life Science Competition, 2026.
 
