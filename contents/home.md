@@ -28,7 +28,7 @@ Selected coursework:
 
 #### English Proficiency
 
-- **IELTS:** 7.5 overall (Speaking: 7.0)
+- **IELTS:** 8.0 overall (Speaking: 7.0)
 
 #### Research Interests
 
